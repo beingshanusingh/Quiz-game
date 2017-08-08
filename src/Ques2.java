@@ -1,3 +1,9 @@
+
+import javax.swing.ButtonGroup;
+
+
+
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -15,6 +21,11 @@ public class Ques2 extends javax.swing.JFrame {
      */
     public Ques2() {
         initComponents();
+        ButtonGroup group = new ButtonGroup();
+        group.add(jRadioButton1);
+        group.add(jRadioButton2);
+        group.add(jRadioButton3);
+        group.add(jRadioButton4);
     }
 
     /**

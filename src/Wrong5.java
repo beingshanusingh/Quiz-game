@@ -8,6 +8,7 @@
  *
  * @author Shanu Singh
  */
+
 public class Wrong5 extends javax.swing.JFrame {
 
     /**
@@ -15,6 +16,7 @@ public class Wrong5 extends javax.swing.JFrame {
      */
     public Wrong5() {
         initComponents();
+        
     }
 
     /**
